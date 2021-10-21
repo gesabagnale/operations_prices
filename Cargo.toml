@@ -1,0 +1,8 @@
+[package]
+name = "operations_prices"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+fltk = { version = "1.2.4", features = ["fltk-bundled"] }
+fltk-theme = "0.2.2"
